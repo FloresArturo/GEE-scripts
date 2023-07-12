@@ -1,4 +1,4 @@
-// DOWNLOAD S2 IMAGERY USING SHP OF AOI
+//DOWNLOAD S2 IMAGERY USING SHP OF AOI
 // Load shp or draw geometry (comment or uncomment as follows)
 // var aoi = table // use if uploading a shp
 var aoi = geometry // use if drawing a geometry
